@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/wechat",
+    "name": "overtrue/wechat3",
     "description": "微信SDK",
     "keywords": [
         "wechat",
@@ -32,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "EasyWeChat\\": "src/"
+            "EasyWeChat3\\": "src/"
         },
         "files": [
             "src/Payment/helpers.php"
@@ -40,7 +40,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "EasyWeChat\\Tests\\": "tests/"
+            "EasyWeChat3\\Tests\\": "tests/"
         }
     }
 }
